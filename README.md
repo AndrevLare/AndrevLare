@@ -54,7 +54,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style={margin-top: 1rem}>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrevLare&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
