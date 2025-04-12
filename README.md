@@ -54,9 +54,11 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrevLare&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/AndrevLare/AndrevLare/output/snake.svg" alt="Snake animation" />
+###
 
 ###
 
