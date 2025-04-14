@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm AndrevLare and I'm a FrontEnd Developer and ocational GameDev, from Colombia</h2>
+<h2 align="left">Hi 👋! I'm AndrevLare, a FrontEnd Developer and ocational GameDev</h2>
 
 ###
 
