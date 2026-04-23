@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm AndrevLare, a FrontEnd Developer and ocational GameDev</h2>
+<h2 align="left">Hi 👋! I'm AndrevLare, a FullStack Developer and ocational GameDev</h2>
 
 
 <br clear="both">
